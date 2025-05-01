@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HealthApp</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="tile_label">Example tile</string>
+    <string name="complication_label">Example complication</string>
+    <string name="no_sensor">Heart rate sensor not available</string>
+    <string name="measuring">Measuring\u2026</string>
+    <string name="bp_format">%d/%d mmHg</string>
+    <string name="hr_format">%d BPM</string>
+    <string name="measure">Measure</string>
+    <string name="send_to_phone">Send to Phone</string>
+    <string name="bp_disclaimer">Data is estimated and not meant for medical diagnosis.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<health-services-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <measure-types>
+        <measure-type android:name="heart_rate" />
+        <!-- Add other supported measure types as needed -->
+    </measure-types>
+</health-services-config>
